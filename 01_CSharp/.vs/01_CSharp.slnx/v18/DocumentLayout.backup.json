@@ -1,0 +1,186 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\for1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:for1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\sum_series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:sum_series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\toggleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:toggleclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\uppercase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:uppercase1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\fibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:fibo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\print_same_name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:print_same_name.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\n_or_p_check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:n_or_p_check.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\name_or_gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:name_or_gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\mno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:mno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "for1.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\for1.cs",
+              "RelativeDocumentMoniker": "for1.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\for1.cs",
+              "RelativeToolTip": "for1.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAcwBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T02:52:16.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sum_series.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\sum_series.cs",
+              "RelativeDocumentMoniker": "sum_series.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\sum_series.cs",
+              "RelativeToolTip": "sum_series.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-14T02:39:29.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Print_Same_Name.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Print_Same_Name.cs",
+              "RelativeDocumentMoniker": "Print_Same_Name.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Print_Same_Name.cs",
+              "RelativeToolTip": "Print_Same_Name.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:43:44.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "N_OR_P_CHECK.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\N_OR_P_CHECK.cs",
+              "RelativeDocumentMoniker": "N_OR_P_CHECK.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\N_OR_P_CHECK.cs",
+              "RelativeToolTip": "N_OR_P_CHECK.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:34:13.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fibo.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\fibo.cs",
+              "RelativeDocumentMoniker": "fibo.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\fibo.cs",
+              "RelativeToolTip": "fibo.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwBAAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:36:43.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Name_Or_Gender.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Name_Or_Gender.cs",
+              "RelativeDocumentMoniker": "Name_Or_Gender.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Name_Or_Gender.cs",
+              "RelativeToolTip": "Name_Or_Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:34:14.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "mNo.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\mNo.cs",
+              "RelativeDocumentMoniker": "mNo.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\mNo.cs",
+              "RelativeToolTip": "mNo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T12:29:47.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ToggleClass.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\ToggleClass.cs",
+              "RelativeDocumentMoniker": "ToggleClass.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\ToggleClass.cs",
+              "RelativeToolTip": "ToggleClass.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T11:28:28.979Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Uppercase1.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Uppercase1.cs",
+              "RelativeDocumentMoniker": "Uppercase1.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Uppercase1.cs",
+              "RelativeToolTip": "Uppercase1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-13T11:25:11.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-07T02:39:17.133Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

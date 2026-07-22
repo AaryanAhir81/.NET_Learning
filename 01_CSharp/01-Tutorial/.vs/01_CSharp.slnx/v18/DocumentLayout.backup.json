@@ -1,10 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\01-Tutorial\\",
+  "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\.net_learning\\01_csharp\\01-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\sum_series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:sum_series.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\pyramid_increased.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:pyramid_increased.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:pyramid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\increased_by_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:increased_by_one.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\number_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:number_pattern.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\right_triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:right_triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:armstrong.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\01-tutorial\\convert_num_to_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1C93A53-B90F-CDD8-913C-23816A788EFB}|01_CSharp.csproj|solutionrelative:convert_num_to_string.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,17 +46,125 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "sum_series.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\sum_series.cs",
+              "RelativeDocumentMoniker": "sum_series.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\sum_series.cs",
+              "RelativeToolTip": "sum_series.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA2wCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:54:09.814Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Pyramid_Increased.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Pyramid_Increased.cs",
+              "RelativeDocumentMoniker": "Pyramid_Increased.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Pyramid_Increased.cs",
+              "RelativeToolTip": "Pyramid_Increased.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA0wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:46:32.787Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Pyramid.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Pyramid.cs",
+              "RelativeDocumentMoniker": "Pyramid.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Pyramid.cs",
+              "RelativeToolTip": "Pyramid.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAIwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:41:12.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "increased_by_one.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\increased_by_one.cs",
+              "RelativeDocumentMoniker": "increased_by_one.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\increased_by_one.cs",
+              "RelativeToolTip": "increased_by_one.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:35:36.509Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "number_pattern.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\number_pattern.cs",
+              "RelativeDocumentMoniker": "number_pattern.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\number_pattern.cs",
+              "RelativeToolTip": "number_pattern.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:26:13.237Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "right_triangle.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\right_triangle.cs",
+              "RelativeDocumentMoniker": "right_triangle.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\right_triangle.cs",
+              "RelativeToolTip": "right_triangle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:21:08.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "armstrong.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\armstrong.cs",
+              "RelativeDocumentMoniker": "armstrong.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\armstrong.cs",
+              "RelativeToolTip": "armstrong.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwCMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:16:13.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "convert_num_to_string.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\convert_num_to_string.cs",
+              "RelativeDocumentMoniker": "convert_num_to_string.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\convert_num_to_string.cs",
+              "RelativeToolTip": "convert_num_to_string.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAcwDcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-16T16:11:39.005Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\01-Tutorial\\Program.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\01-Tutorial\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAiAAAAAAAAAA==",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\01-Tutorial\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-07-14T06:09:37.687Z",
               "EditorCaption": ""

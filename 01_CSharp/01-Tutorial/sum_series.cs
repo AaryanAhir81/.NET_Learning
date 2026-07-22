@@ -8,29 +8,29 @@ namespace _01_CSharp
     {
         public static void sum_series_demo()
         {
-            int term, number;
-            int sum = 0;
-            int current = 0;
-            Console.WriteLine("Enter terms: ");
-            term = Convert.ToInt32(Console.ReadLine());
+            int n, digit, term = 0, sum = 0;
 
-            Console.WriteLine("Enter input number: ");
-            number = Convert.ToInt32(Console.ReadLine());
+            Console.Write("Input the number of terms: ");
+            n = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine();
+            Console.Write("Input number: ");
+            digit = Convert.ToInt32(Console.ReadLine());
 
-            for(int i = 1; i<=term; i++)
+            Console.WriteLine("\nSeries:");
+
+            for (int i = 1; i <= n; i++)
             {
-                current = current + 10;
-                Console.Write(current);
-                sum += current;
+                term = term * 10 + digit;
+                sum = sum + term;
 
-                if (i < term)
+                Console.Write(term);
+
+                if (i < n)
                     Console.Write(" + ");
             }
 
-            Console.WriteLine("\nsum is " + sum);
             Console.WriteLine();
+            Console.WriteLine("The Sum is : " + sum);
         }
     }
-}
+ }

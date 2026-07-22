@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "02-Tutorial": {
+      "commandName": "Project",
+      "commandLineArgs": "A B C D"
+    },
+    "WSL": {
+      "commandName": "WSL2",
+      "distributionName": ""
+    }
+  }
+}

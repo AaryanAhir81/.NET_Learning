@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\02-Tutorial\\02-Tutorial.csproj",
+      "projectUniqueName": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\02-Tutorial.csproj",
       "projectName": "02-Tutorial",
-      "projectPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\02-Tutorial\\02-Tutorial.csproj",
+      "projectPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\02-Tutorial.csproj",
       "packagesPath": "C:\\Users\\DELL\\.nuget\\packages\\",
-      "outputPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\.NET_Learning\\01_CSharp\\02-Tutorial\\obj\\",
+      "outputPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,0 +1,15 @@
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\bin\Debug\net10.0\02-Tutorial.exe
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\bin\Debug\net10.0\02-Tutorial.deps.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\bin\Debug\net10.0\02-Tutorial.runtimeconfig.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\bin\Debug\net10.0\02-Tutorial.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\bin\Debug\net10.0\02-Tutorial.pdb
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.GeneratedMSBuildEditorConfig.editorconfig
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.AssemblyInfoInputs.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.AssemblyInfo.cs
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.csproj.CoreCompileInputs.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.sourcelink.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\refint\02-Tutorial.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.pdb
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\02-Tutorial.genruntimeconfig.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\01_CSharp\02-Tutorial\obj\Debug\net10.0\ref\02-Tutorial.dll

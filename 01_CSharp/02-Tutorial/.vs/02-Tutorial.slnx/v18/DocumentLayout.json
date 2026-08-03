@@ -1,0 +1,208 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p7.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p12.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p15.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\01_csharp\\02-tutorial\\p14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{77669ADF-147B-DF45-32E2-C124456F104F}|02-Tutorial.csproj|solutionrelative:p14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "P9.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P9.cs",
+              "RelativeDocumentMoniker": "P9.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P9.cs",
+              "RelativeToolTip": "P9.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-28T02:38:37.487Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "P10.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P10.cs",
+              "RelativeDocumentMoniker": "P10.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P10.cs",
+              "RelativeToolTip": "P10.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwDUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T13:19:50.808Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "P8.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P8.cs",
+              "RelativeDocumentMoniker": "P8.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P8.cs",
+              "RelativeToolTip": "P8.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAIwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T12:58:59.2Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "P7.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P7.cs",
+              "RelativeDocumentMoniker": "P7.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P7.cs",
+              "RelativeToolTip": "P7.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T12:55:28.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "P14.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P14.cs",
+              "RelativeDocumentMoniker": "P14.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P14.cs",
+              "RelativeToolTip": "P14.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAcwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T03:35:03.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "P6.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P6.cs",
+              "RelativeDocumentMoniker": "P6.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P6.cs",
+              "RelativeToolTip": "P6.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-03T03:11:15.206Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "P11.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P11.cs",
+              "RelativeDocumentMoniker": "P11.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P11.cs",
+              "RelativeToolTip": "P11.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:52:35.396Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "P12.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P12.cs",
+              "RelativeDocumentMoniker": "P12.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P12.cs",
+              "RelativeToolTip": "P12.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAoAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:50:39.609Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "P13.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P13.cs",
+              "RelativeDocumentMoniker": "P13.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P13.cs",
+              "RelativeToolTip": "P13.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:47:42.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "P15.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P15.cs",
+              "RelativeDocumentMoniker": "P15.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\P15.cs",
+              "RelativeToolTip": "P15.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwA4AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-30T17:40:42.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\01_CSharp\\02-Tutorial\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-27T09:00:21.719Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\Validation_Form\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4392B50-D807-4740-94A7-8828276ACB94}|Validation_Form.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\02_asp.net\\validation_form\\register_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{E4392B50-D807-4740-94A7-8828276ACB94}|Validation_Form.csproj|solutionrelative:register_form.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4392B50-D807-4740-94A7-8828276ACB94}|Validation_Form.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\02_asp.net\\validation_form\\register_form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4392B50-D807-4740-94A7-8828276ACB94}|Validation_Form.csproj|solutionrelative:register_form.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register_Form.aspx.cs",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\Validation_Form\\Register_Form.aspx.cs",
+              "RelativeDocumentMoniker": "Register_Form.aspx.cs",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\Validation_Form\\Register_Form.aspx.cs*",
+              "RelativeToolTip": "Register_Form.aspx.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T17:49:50.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register_Form.aspx",
+              "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\Validation_Form\\Register_Form.aspx",
+              "RelativeDocumentMoniker": "Register_Form.aspx",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\Validation_Form\\Register_Form.aspx*",
+              "RelativeToolTip": "Register_Form.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2026-08-05T17:47:00.258Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

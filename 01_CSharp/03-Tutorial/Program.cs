@@ -8,6 +8,8 @@
             //P2.Program_2();
             //P3.Program_3();
             //P4.Program_4();
+            //TestProduct.Run(args);
+            TestLine.LineRun(args);
         }
     }
 }

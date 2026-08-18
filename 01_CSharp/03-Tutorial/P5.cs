@@ -20,6 +20,9 @@ namespace _03_Tutorial
             Console.WriteLine("\nManufacturer Name := " + mname);
             Console.WriteLine("\nProduct Code := " + pcode);
             Console.WriteLine("\nProduct Name := " + pname);
+            Console.WriteLine("\n");
+            Console.WriteLine("Name: Bharvadiya Aaryan V");
+            Console.WriteLine("Enrollment No: 25SOEIT13013");
         }
     }
 

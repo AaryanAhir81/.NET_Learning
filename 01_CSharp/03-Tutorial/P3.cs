@@ -39,19 +39,19 @@ namespace _03_Tutorial
             {
                 Console.WriteLine("ID: " + id);
                 Console.WriteLine("Name: " + name);
+                Console.WriteLine("\n");
             }
 
         }
-
-        //class TestStudent
-        //{
-
-        //}
 
         public static void Program_3()
         {
             Student s = new Student(101,"Aaryan");
             s.DisplayData();
+
+            //Personal Details
+            Console.WriteLine("Name: Bharvadiya Aaryan V");
+            Console.WriteLine("Enrollment No: 25SOEIT13013");
         }
     }
 }

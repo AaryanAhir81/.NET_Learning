@@ -21,9 +21,11 @@ namespace _03_Tutorial
 
             public void DisplayData()
             {
+                Console.WriteLine("--------Student Details----------");
                 Console.WriteLine("Enrollment No: " + EnrollmentNo);
                 Console.WriteLine("Name: " + name);
                 Console.WriteLine("Branch: " + branch);
+                Console.WriteLine("\n");
             }
 
         }
@@ -41,15 +43,16 @@ namespace _03_Tutorial
             s2.AcceptData(102, "John", "Computer Science");
             s2.DisplayData();
 
-            s3.AcceptData(102, "Aaryan", "IT");
+            s3.AcceptData(103, "Aaryan", "IT");
             s3.DisplayData();
 
-            s4.AcceptData(102, "Smit", "IT");
+            s4.AcceptData(104, "Smit", "IT");
             s4.DisplayData();
 
-            s5.AcceptData(102, "Yash", "IT");
+            s5.AcceptData(105, "Yash", "IT");
             s5.DisplayData();
 
+            //Personal Details
             Console.WriteLine("Name: Bharvadiya Aaryan V");
             Console.WriteLine("Enrollment No: 25SOEIT13013");
         }

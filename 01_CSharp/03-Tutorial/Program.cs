@@ -19,6 +19,17 @@
             //P13.ProductDetails(args);
             //EmployeeInheritance.Run();
             //Inheritance.Run();
+            //Shape.AreaRun(args);
+            //P17.P17Run();
+            //P18.P18Run();
+            //P19.P19Run();
+            //P20.P20Run();
+            //P21.P21Run();
+            //P22.EmpShow(args);
+            //P23.Program_23();
+            //P24.Program_24();
+            //P25.Program_25();
+            //P26.P26Run();
         }
     }
 }

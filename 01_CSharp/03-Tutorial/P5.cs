@@ -48,6 +48,10 @@ namespace _03_Tutorial
                 p.Display();
 
                 Console.Read();
+
+                //Personal Details
+                Console.WriteLine("Name: Bharvadiya Aaryan V");
+                Console.WriteLine("Enrollment No: 25SOEIT13013");
             }
         }
     }

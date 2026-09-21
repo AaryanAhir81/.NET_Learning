@@ -3,7 +3,7 @@
   "WorkspaceRootPath": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F44395E3-7E9E-43A6-974E-626AAFD03709}|RegisterDemo.csproj|d:\\r.k univesrsity\\sem-5\\.net_learning\\02_asp.net\\registerdemo\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{F44395E3-7E9E-43A6-974E-626AAFD03709}|RegisterDemo.csproj|D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{F44395E3-7E9E-43A6-974E-626AAFD03709}|RegisterDemo.csproj|solutionrelative:register.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
@@ -28,7 +28,7 @@
               "RelativeDocumentMoniker": "Register.aspx.cs",
               "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\Register.aspx.cs",
               "RelativeToolTip": "Register.aspx.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-09-14T13:33:13.609Z",
               "EditorCaption": ""
@@ -39,8 +39,8 @@
               "Title": "Register.aspx",
               "DocumentMoniker": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\Register.aspx",
               "RelativeDocumentMoniker": "Register.aspx",
-              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\Register.aspx*",
-              "RelativeToolTip": "Register.aspx*",
+              "ToolTip": "D:\\R.K Univesrsity\\Sem-5\\.NET_Learning\\02_ASP.NET\\RegisterDemo\\Register.aspx",
+              "RelativeToolTip": "Register.aspx",
               "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2026-09-14T13:28:27.145Z",

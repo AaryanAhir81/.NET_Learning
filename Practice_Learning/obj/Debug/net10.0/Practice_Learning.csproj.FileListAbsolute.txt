@@ -1,0 +1,15 @@
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.GeneratedMSBuildEditorConfig.editorconfig
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.AssemblyInfoInputs.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.AssemblyInfo.cs
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.csproj.CoreCompileInputs.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.sourcelink.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\bin\Debug\net10.0\Practice_Learning.exe
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\bin\Debug\net10.0\Practice_Learning.deps.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\bin\Debug\net10.0\Practice_Learning.runtimeconfig.json
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\bin\Debug\net10.0\Practice_Learning.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\bin\Debug\net10.0\Practice_Learning.pdb
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\refint\Practice_Learning.dll
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.pdb
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\Practice_Learning.genruntimeconfig.cache
+D:\R.K Univesrsity\Sem-5\.NET_Learning\Practice_Learning\obj\Debug\net10.0\ref\Practice_Learning.dll
